@@ -5,6 +5,7 @@ It is used to develop
 It has various frameworks depending upon the need we can choose them
 
 #. Web frameworks
-1. Flask - Lightweight 
+1. Flask - Lightweight and flexible framework best suited for small and mid-sized applications
+2. Django - High-level and Full-stack framework best suited for Large and enterprise level applications
 
 
