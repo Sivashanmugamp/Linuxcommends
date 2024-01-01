@@ -6,6 +6,19 @@ It has various frameworks depending upon the need we can choose them
 
 #. Web frameworks
 1. Flask - Lightweight and flexible framework best suited for small and mid-sized applications
-2. Django - High-level and Full-stack framework best suited for Large and enterprise level applications
+2. Django - High-level and Full-stack framework best suited for Large and enterprise-level applications
+3. Dash
+4. FASTAPI
+5. CherryPy
+6. Bottle
+7. Pyramid
+8. Tornado
+
+#. Desktop frameworks
+1. wxPython
+2. Tkinter
+3. PyQt
+4. Kivy
+5.
 
 
