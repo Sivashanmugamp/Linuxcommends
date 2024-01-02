@@ -1,5 +1,9 @@
-The below are the commands commonly used in Linux environment/machine
+Below are the commands commonly used in Linux environment/machine
 
-1. --ls-- --> List out all the files and folders in the current directory
+1. ls --> List out all the files and folders in the current directory
+2. cd <directory> --> change the current directory
+3. mkdir <directory name>  --> Create new directory
+4. touch <filename>  --> Create a new file in the current directory.
+5. vim <filename>  --> Open a file in editor. Vim is default editor in linux
 
 
