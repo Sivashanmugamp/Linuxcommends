@@ -4,6 +4,7 @@ Below are the commands commonly used in Linux environment/machine
 2. cd <directory> --> change the current directory
 3. mkdir <directory name>  --> Create new directory
 4. touch <filename>  --> Create a new file in the current directory.
-5. vim <filename>  --> Open a file in editor. Vim is default editor in linux
+5. vim <filename>  --> Open a file in editor. Vim is the default editor in Linux.
+6. After opening a file in Vim editor use the "Insert" key to add code to the file. once you complete use "Esc" key and then type ":w" to save the changes
 
 
