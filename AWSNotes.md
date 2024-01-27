@@ -7,11 +7,17 @@
         - Can create account alias for IAM user to access the AWS console
           
     - IAM user - This user will have access based on the role has been associated
-        - Access the console using Account alias or
-2. User Group
-3. Users
-4. Policies
-5. Regions
-6. Availability Zones 
+        - Access the console using Account alias or Using 12 account Id
+1. User Group
+     - Users are aligned with the group
+     - Policies/Permission are mapped with group 
+2. Users
+     - User will be created by Root user/IAM user
+     - Requires User group to be associated  
+3. Policies
+       - User can create Policy/Permission
+       - Need to provide the Action and Resources. 
+7. Regions
+8. Availability Zones 
    
 
