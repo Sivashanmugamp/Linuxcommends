@@ -17,7 +17,14 @@
 3. Policies
        - User can create Policy/Permission
        - Need to provide the Action and Resources. 
-7. Regions
-8. Availability Zones 
+4. Regions
+    - Regions are available across the globe
+    - Region has to be selected near to the client business area
+    - All regions are not having all services
+    - Nearest regions will avoid low latency issues. 
+5. Availability Zones
+       - Each regions will have 3 to 6 availability zones
+       - Each are Isolated when one zone goes down other are accessable without any issues
+    
    
 
