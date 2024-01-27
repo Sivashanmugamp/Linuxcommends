@@ -49,6 +49,12 @@
       - Configuration steps
             - Open command prompt and type 'aws configuration' and press enter
             - Enter 'Account Id', 'AccessKey','default region' and 'defaut output format'
+10. Roles
+    - Roles are created to provide the permission for the AWS services.
+    - This is not going to be associated to any user. But this will be associated with any AWS service to access required stufs.
+          - For example EC2 Instance wants to access any other AWS API/Service, it require roles.
+          - When any service wants to access any other service it must require role permission
+          - Role will have the permission are mapped like(Read, Write, Modify and so on..)
     
    
 
