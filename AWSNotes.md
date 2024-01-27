@@ -39,6 +39,7 @@
     - AWS services can accessed 3 different ways
           - Using AWS managment console https://console.aws.amazon.com
           - AWS CLI
+          - AWS CloudShell
           - AWS SDK - This help to access the aws services for your application. This is language specific, based on the language which you working on you can download for that.
 9. AWS CLI Configuration
       - User can download the AWS CLI for their OS Specific(Windows, Mac or Linux)
