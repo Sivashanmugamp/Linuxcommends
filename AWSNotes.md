@@ -23,8 +23,8 @@
     - All regions are not having all services
     - Nearest regions will avoid low latency issues. 
 5. Availability Zones
-       - Each regions will have 3 to 6 availability zones
-       - Each are Isolated when one zone goes down other are accessable without any issues
+   - Each regions will have 3 to 6 availability zones
+   - Each are Isolated when one zone goes down other are accessable without any issues
     
    
 
