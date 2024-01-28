@@ -56,5 +56,17 @@
           - When any service wants to access any other service it must require role permission
           - Role will have the permission are mapped like(Read, Write, Modify and so on..)
     
-   
+11. AWS Compute Options
+    - Instances/Compute
+    - Containers
+      - Containers provide a standard way to package your application's code, configurations, and dependencies into a single object.
+      - Containers run on top of the host OS and share the host's kernel. Each container running on a host runs its own isolated root     
+        file system in a separate namespace that may include it’s own OS. They are designed to help ensure quick, reliable, and 
+        consistent deployments, regardless of the environment.
+      - Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications  
+    - Serverless
+    - Amazon EC2 are virtual server instances in the cloud.
+    - Amazon ECS, Amazon EKS: Container management services that can run containers on either customer managed Amazon EC2 instances OR as 
+      an AWS managed serverless offering running containers on AWS Fargate.
+    - AWS Lambda is Serverless compute for running stateless code in response to triggers. 
 
