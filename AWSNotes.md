@@ -68,5 +68,11 @@
     - Amazon EC2 are virtual server instances in the cloud.
     - Amazon ECS, Amazon EKS: Container management services that can run containers on either customer managed Amazon EC2 instances OR as 
       an AWS managed serverless offering running containers on AWS Fargate.
-    - AWS Lambda is Serverless compute for running stateless code in response to triggers. 
+    - AWS Lambda is Serverless compute for running stateless code in response to triggers.
+12. AWS Certified Solution Architect Associate.
+    - This cource includes with 4 main domains knowledge
+          - Design Secure Architecture
+          - Design Resilient Architecture
+          - Design High Performing Architeture
+          - Design Cost Effective Architecture 
 
