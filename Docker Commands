@@ -1,0 +1,7 @@
+docker ps 
+  - List out all images
+docker build -t your_dockerhub_username/your_image_name:tag .
+  - Build the image
+docker login
+  - Login to your Docker hub
+docekr push your_dockerhub_username/your_image_name:tag
